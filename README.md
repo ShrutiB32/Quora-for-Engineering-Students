@@ -1,0 +1,2 @@
+This project is based on Web Development And its Applications. The main objective of this project is to learn the implementation of HTML, CSS and JavaScript. The basic webpage of this project is created using HTML and styling of the webpage is done usinThis webpage is about QES. QES is a place to gain and share knowledge.
+It’s a platform to ask questions and connect with people who contribute unique insights and quality answers.
